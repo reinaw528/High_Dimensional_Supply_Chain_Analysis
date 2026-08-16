@@ -224,7 +224,7 @@ def _create_forecast_features(
 ) -> tuple[pd.DataFrame, dict]:
 
     df["forecast_error"] = (
-        df["demand_forecast"].astype(float)- df["units_sold"].astype(float)
+        df["demand_forecast"].astype(float) - df["units_sold"].astype(float)
     )
 
     df["absolute_forecast_error"] = (

@@ -2,7 +2,7 @@
 
 ## Business Background
 
-A retail company operates multiple warehouses and suppliers across different regions.
+A company operates multiple warehouses and suppliers across different regions.
 
 Management faces challenges in:
 
@@ -24,3 +24,4 @@ The goal of this project is to build an executive dashboard that provides visibi
 4. Which suppliers present operational risks?
 
 5. What actions should management take to improve supply chain performance?
+
